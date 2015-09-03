@@ -40,6 +40,12 @@ public class Order {
 	public void setOrderdetail(OrderDetail orderdetail) {
 		this.orderdetail = orderdetail;
 	}
+`	public void calcTax(){
+	}
+	public void calcTotal(){
+	}
+	public void calctotalWeight(){
+	}
 	
 	
 
